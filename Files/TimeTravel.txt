@@ -1,0 +1,82 @@
+Time travel — moving between different points in time — has been a popular topic for science fiction for decades. 
+Franchises ranging from "Doctor Who" to "Star Trek" to "Back to the Future" have seen humans get in a vehicle of some sort
+and arrive in the past or future, ready to take on new adventures.
+The reality, however, is more muddled. Not all scientists believe that time travel is possible. Some even say that an 
+attempt would be fatal to any human who chooses to undertake it.
+Understanding time
+What is time? While most people think of time as a constant, physicist Albert Einstein showed that time is an illusion; 
+it is relative — it can vary for different observers depending on your speed through space. To Einstein, time is the 
+"fourth dimension." Space is described as a three-dimensional arena, which provides a traveler with coordinates — such as
+length, width and height —showing location. Time provides another coordinate — direction — although conventionally, 
+it only moves forward. (Conversely, a new theory asserts that time is "real.")
+Most physicists think time is a subjective illusion, but what if time is real?
+Einstein's theory of special relativity says that time slows down or speeds up depending on how fast you move relative to 
+something else. Approaching the speed of light, a person inside a spaceship would age much slower than his twin at home. 
+Also, under Einstein's theory of general relativity, gravity can bend time.
+Picture a four-dimensional fabric called space-time. When anything that has mass sits on that piece of fabric, it causes a
+dimple or a bending of space-time. The bending of space-time causes objects to move on a curved path and that curvature of
+space is what we know as gravity.
+Both the general and special relativity theories have been proven with GPS satellite technology that has very accurate 
+timepieces on board. The effects of gravity, as well as the satellites' increased speed above the Earth relative to 
+observers on the ground, make the unadjusted clocks gain 38 microseconds a day. (Engineers make calibrations to account 
+for the difference.)
+In a sense, this effect, called time dilation, means astronauts are time travelers, as they return to Earth very, very 
+slightly younger than their identical twins that remain on the planet.
+
+Through the wormhole
+General relativity also provides scenarios that could allow travelers to go back in time, according to NASA. The equations
+, however, might be difficult to physically achieve.
+
+One possibility could be to go faster than light, which travels at 186,282 miles per second (299,792 kilometers per 
+second) in a vacuum. Einstein's equations, though, show that an object at the speed of light would have both infinite 
+mass and a length of 0. This appears to be physically impossible, although some scientists have extended his equations and
+ said it might be done.
+
+A linked possibility, NASA stated, would be to create "wormholes" between points in space-time. While Einstein's equations provide for them, they would collapse very quickly and would only be suitable for very small particles. Also, scientists haven't actually observed these wormholes yet. Also, the technology needed to create a wormhole is far beyond anything we have today. 
+
+Alternate time travel theories
+While Einstein's theories appear to make time travel difficult, some groups have proposed alternate solutions to jump back and forth in time.
+
+Infinite cylinder
+
+Astronomer Frank Tipler proposed a mechanism (sometimes known as a Tipler Cylinder) where one would take matter that is 10 times the sun's mass, then roll it into very long but very dense cylinder.
+
+After spinning this up a few billion revolutions per minute, a spaceship nearby — following a very precise spiral around this cylinder — could get itself on a "closed, time-like curve", according to the Anderson Institute. There are limitations with this method, however, including the fact that the cylinder needs to be infinitely long for this to work.
+
+An artist's impression of a black hole like the one weighed in this work, sitting in the core of a disk galaxy. The black-hole in NGC4526 weighs 450,000,000 times more than our own Sun.
+
+An artist's impression of a black hole like the one weighed in this work, sitting in the core of a disk galaxy. The black-hole in NGC4526 weighs 450,000,000 times more than our own Sun.(Image: © NASA/JPL-Caltech)
+Black holes
+
+Another possibility would be to move a ship rapidly around a black hole, or to artificially create that condition with a huge, rotating structure.
+
+"Around and around they'd go, experiencing just half the time of everyone far away from the black hole. The ship and its crew would be traveling through time," physicist Stephen Hawking wrote in the Daily Mail in 2010.
+
+"Imagine they circled the black hole for five of their years. Ten years would pass elsewhere. When they got home, everyone on Earth would have aged five years more than they had."
+
+However, he added, the crew would need to travel around the speed of light for this to work. Physicist Amos Iron at the Technion-Israel Institute of Technology in Haifa, Israel pointed out another limitation if one used a machine: it might fall apart before being able to rotate that quickly.
+
+Cosmic strings
+
+Another theory for potential time travelers involves something called cosmic strings — narrow tubes of energy stretched across the entire length of the ever-expanding universe. These thin regions, left over from the early cosmos, are predicted to contain huge amounts of mass and therefore could warp the space-time around them.
+
+Cosmic strings are either infinite or they’re in loops, with no ends, scientists say. The approach of two such strings parallel to each other would bend space-time so vigorously and in such a particular configuration that might make time travel possible, in theory.
+
+Time machines
+It is generally understood that traveling forward or back in time would require a device — a time machine — to take you there. Time machine research often involves bending space-time so far that time lines turn back on themselves to form a loop, technically known as a "closed time-like curve."
+
+The Doctor's time machine is the TARDIS, which stands for Time and Relative Dimensions in Space.
+
+The Doctor's time machine is the TARDIS, which stands for Time and Relative Dimensions in Space.(Image: © BBCAmerica)
+To accomplish this, time machines often are thought to need an exotic form of matter with so-called "negative energy density." Such exotic matter has bizarre properties, including moving in the opposite direction of normal matter when pushed. Such matter could theoretically exist, but if it did, it might be present only in quantities too small for the construction of a time machine.
+
+However, time-travel research suggests time machines are possible without exotic matter. The work begins with a doughnut-shaped hole enveloped within a sphere of normal matter. Inside this doughnut-shaped vacuum, space-time could get bent upon itself using focused gravitational fields to form a closed time-like curve. To go back in time, a traveler would race around inside the doughnut, going further back into the past with each lap. This theory has a number of obstacles, however. The gravitational fields required to make such a closed time-like curve would have to be very strong, and manipulating them would have to be very precise. [Related: Warp Speed, Scotty? Star Trek's FTL Drive May Actually Work]
+
+Grandfather paradox
+Advertisement
+
+Besides the physics problems, time travel may also come with some unique situations. A classic example is the grandfather paradox, in which a time traveler goes back and kills his parents or his grandfather — the major plot line in the "Terminator" movies — or otherwise interferes in their relationship — think "Back to the Future" — so that he is never born or his life is forever altered.
+
+If that were to happen, some physicists say, you would be not be born in one parallel universe but still born in another. Others say that the photons that make up light prefer self-consistency in timelines, which would interfere with your evil, suicidal plan.
+
+Some scientists disagree with the options mentioned above and say time travel is impossible no matter what your method. The faster-than-light one in particular drew derision from American Museum of Natural History astrophysicist Charles Lu.
